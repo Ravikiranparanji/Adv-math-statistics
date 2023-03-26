@@ -1,2 +1,4 @@
 # Adv-math-statistics
-Regression
+Linear regression
+Multi linear regression
+Logistic regression
